@@ -1,6 +1,6 @@
 # Data Structures & Algorithms in Java
 
-Collection of ~35 in gihub but overall 450+ solved problems covering core CS fundamentals.
+Collection of ~35 in Github but overall 450+ solved problems covering core CS fundamentals.
 
 ## Topics
 - Arrays & Strings
